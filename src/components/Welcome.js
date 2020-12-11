@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/App.css";
 
-const welcome = (props) => {
+const Welcome = (props) => {
   return (
     <>
       <h1>Hey {props.name}!</h1>
